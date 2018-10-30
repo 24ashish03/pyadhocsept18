@@ -15,7 +15,7 @@ n2=raw_input("enter  second  number :  ")
 '''
 #adding numbers but we need to typecast  from string to int 
 sum=int(n1)+int(n2)
-print  "sum of input numbers is ",sum
+print  "sum of numbers enter ",sum
 
 
 
